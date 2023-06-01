@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Budget Bites</string>
+    <string name="title_add">Add</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_profile">Profile</string>
+    <string name="save_Button">Save</string>
+    <string name="delete_Button">Delete</string>
+    <string name="type_email">Type email</string>
+    <string name="type_full_name">Type your full name</string>
+    <string name="users_photo_selection">Users photo selection</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="password">Password</string>
+    <string name="change_password">Change Password\n</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="enter_password">Password</string>
+    <string name="remember_me">Remember me</string>
+    <string name="forgot_password">Forgot password?</string>
+    <string name="login_button">Login</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="name">Name</string>
+    <string name="email_input">Email</string>
+    <string name="password_input">Password</string>
+    <string name="sign_up_button">Sign up</string>
+    <string name="log_in">Log in</string>
+    <string name="sign_up_activity">Sign up</string>
+    <string name="bio">Bio</string>
+    <string name="social_media">Social Media</string>
+    <string name="share">Share</string>
+    <string name="change_picture">change picture</string>
+    <string name="financial_goals">Financial Goals</string>
+    <string name="Finanaical_Challenges">Financial Challenges</string>
+    <string name="Finanaical_Succes">Financial Succeses</string>
+    <string-array name="options_array">
+        <item>Income</item>
+        <item>Expense</item>
+    </string-array>
+</resources>
